@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545362236987",
+    "project_id": "food-app-8ff45",
+    "storage_bucket": "food-app-8ff45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545362236987:android:df2da49ebed9aef165ee1e",
+        "android_client_info": {
+          "package_name": "com.alaminkarno.flutter_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545362236987-e33rkfvh0bf1sol9cj5pbvoc1qd0ennl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsfEhLaSjs8h75R4DWcX0YgShIdEPqlSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545362236987-e33rkfvh0bf1sol9cj5pbvoc1qd0ennl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
